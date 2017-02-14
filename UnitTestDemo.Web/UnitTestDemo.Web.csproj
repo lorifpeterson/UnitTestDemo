@@ -184,7 +184,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Cision.UnitTestDemo\UnitTestDemo.csproj">
+    <ProjectReference Include="..\UnitTestDemo\UnitTestDemo.csproj">
       <Project>{8B7A0E78-10AD-4B71-B86C-2592015FCB44}</Project>
       <Name>UnitTestDemo</Name>
     </ProjectReference>

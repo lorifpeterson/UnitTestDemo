@@ -102,11 +102,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Cision.UnitTestDemo.Web\UnitTestDemo.Web.csproj">
+    <ProjectReference Include="..\UnitTestDemo.Web\UnitTestDemo.Web.csproj">
       <Project>{67B684D5-FBE2-4677-8FD3-E4395176F811}</Project>
       <Name>UnitTestDemo.Web</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Cision.UnitTestDemo\UnitTestDemo.csproj">
+    <ProjectReference Include="..\UnitTestDemo\UnitTestDemo.csproj">
       <Project>{8B7A0E78-10AD-4B71-B86C-2592015FCB44}</Project>
       <Name>UnitTestDemo</Name>
     </ProjectReference>
