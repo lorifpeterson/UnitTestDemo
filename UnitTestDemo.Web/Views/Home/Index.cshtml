@@ -1,0 +1,22 @@
+﻿@using Cision.UnitTestDemo.Web.Models
+@model HomeModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@Model.Title</h2>
+
+<table>
+    <tr>
+        <td><strong>@Model.DataSource</strong></td>
+    </tr>
+    @foreach(var item in Model.Outlets)
+    {
+        <tr>
+            <td>@(item)</td>
+        
+        </tr>
+    }
+
+</table>

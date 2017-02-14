@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7153CBD7-85F6-4BDA-86A5-474B87B56C32}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{CCB40962-61BA-4660-A150-22D7C7196DC3}"
+	ProjectSection(SolutionItems) = preProject
+		Library\Moq.chm = Library\Moq.chm
+		Library\Moq.dll = Library\Moq.dll
+		Library\Moq.pdb = Library\Moq.pdb
+		Library\Moq.xml = Library\Moq.xml
+		Library\StructureMap.dll = Library\StructureMap.dll
+		Library\StructureMap.xml = Library\StructureMap.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo", "UnitTestDemo\UnitTestDemo.csproj", "{8B7A0E78-10AD-4B71-B86C-2592015FCB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo.Tests", "UnitTestDemo.Tests\UnitTestDemo.Tests.csproj", "{2DDAF826-B89E-4CAF-8E7A-C811C3AB67BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo.Web", "UnitTestDemo.Web\UnitTestDemo.Web.csproj", "{67B684D5-FBE2-4677-8FD3-E4395176F811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo.Web.Tests", "UnitTestDemo.Web.Tests\UnitTestDemo.Web.Tests.csproj", "{13FA5944-2DEA-4A00-A96B-C23358169F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7A0E78-10AD-4B71-B86C-2592015FCB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7A0E78-10AD-4B71-B86C-2592015FCB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7A0E78-10AD-4B71-B86C-2592015FCB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7A0E78-10AD-4B71-B86C-2592015FCB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDAF826-B89E-4CAF-8E7A-C811C3AB67BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDAF826-B89E-4CAF-8E7A-C811C3AB67BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDAF826-B89E-4CAF-8E7A-C811C3AB67BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDAF826-B89E-4CAF-8E7A-C811C3AB67BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B684D5-FBE2-4677-8FD3-E4395176F811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B684D5-FBE2-4677-8FD3-E4395176F811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B684D5-FBE2-4677-8FD3-E4395176F811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B684D5-FBE2-4677-8FD3-E4395176F811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FA5944-2DEA-4A00-A96B-C23358169F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FA5944-2DEA-4A00-A96B-C23358169F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FA5944-2DEA-4A00-A96B-C23358169F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FA5944-2DEA-4A00-A96B-C23358169F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCB40962-61BA-4660-A150-22D7C7196DC3} = {7153CBD7-85F6-4BDA-86A5-474B87B56C32}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = UnitTestDemo.vsmdi
+	EndGlobalSection
+EndGlobal
