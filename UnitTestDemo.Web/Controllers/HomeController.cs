@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Cision.UnitTestDemo.Dao;
-using Cision.UnitTestDemo.Outlet;
-using Cision.UnitTestDemo.Web.Models;
+using UnitTestDemo.Dao;
+using UnitTestDemo.Outlet;
+using UnitTestDemo.Web.Models;
 
-namespace Cision.UnitTestDemo.Web.Controllers
+namespace UnitTestDemo.Web.Controllers
 {
     public class HomeController : Controller
     {
