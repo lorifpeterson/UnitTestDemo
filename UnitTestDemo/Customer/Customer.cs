@@ -1,4 +1,4 @@
-﻿namespace Cision.UnitTestDemo.Customer
+﻿namespace UnitTestDemo.Customer
 {
     public class Customer
     {
