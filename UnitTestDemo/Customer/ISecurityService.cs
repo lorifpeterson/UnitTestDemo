@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Cision.UnitTestDemo
+namespace UnitTestDemo
 {
     public interface ISecurityService
     {
