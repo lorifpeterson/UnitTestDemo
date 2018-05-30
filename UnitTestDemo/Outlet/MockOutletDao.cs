@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Cision.UnitTestDemo.Outlet;
+using UnitTestDemo.Outlet;
 
-namespace Cision.UnitTestDemo.Dao
+namespace UnitTestDemo.Dao
 {
     public class MockOutletDao : IOutletDao
     {
