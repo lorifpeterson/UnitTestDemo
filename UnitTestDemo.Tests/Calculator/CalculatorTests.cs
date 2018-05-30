@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 
-namespace Cision.UnitTestDemo.Calculator
+namespace UnitTestDemo.Calculator
 {
     [TestClass]
     public class CalculatorTests
