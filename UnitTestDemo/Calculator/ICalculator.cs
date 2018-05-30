@@ -1,4 +1,4 @@
-namespace Cision.UnitTestDemo.Calculator
+namespace UnitTestDemo.Calculator
 {
     public interface ICalculator
     {
