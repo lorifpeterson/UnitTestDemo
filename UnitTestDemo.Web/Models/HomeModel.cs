@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Cision.UnitTestDemo.Web.Models
+namespace UnitTestDemo.Web.Models
 {
     public class HomeModel
     {
