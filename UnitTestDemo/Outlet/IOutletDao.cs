@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Cision.UnitTestDemo.Outlet
+namespace UnitTestDemo.Outlet
 {
     public interface IOutletDao
     {
