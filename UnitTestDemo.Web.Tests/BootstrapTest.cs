@@ -1,12 +1,12 @@
-﻿using Cision.UnitTestDemo.Dao;
-using Cision.UnitTestDemo.Outlet;
-using Cision.UnitTestDemo.Web.IoC;
+﻿using UnitTestDemo.Dao;
+using UnitTestDemo.Outlet;
+using UnitTestDemo.Web.IoC;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting.Web;
 using StructureMap;
 
-namespace Cision.UnitTestDemo.Web.Tests
+namespace UnitTestDemo.Web.Tests
 {
     [TestClass()]
     public class BootstrapTest
