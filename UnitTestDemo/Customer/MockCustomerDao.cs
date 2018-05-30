@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Cision.UnitTestDemo.Customer
+namespace UnitTestDemo.Customer
 {
     public class MockCustomerDao : ICustomerDao
     {
