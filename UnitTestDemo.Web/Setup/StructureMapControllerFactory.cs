@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using StructureMap;
 
-namespace Cision.UnitTestDemo.Web.IoC
+namespace UnitTestDemo.Web.IoC
 {
     public class StructureMapControllerFactory : DefaultControllerFactory
     {
