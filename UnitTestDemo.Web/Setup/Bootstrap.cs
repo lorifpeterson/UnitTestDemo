@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Cision.UnitTestDemo.Dao;
-using Cision.UnitTestDemo.Outlet;
+using UnitTestDemo.Dao;
+using UnitTestDemo.Outlet;
 using StructureMap;
 
-namespace Cision.UnitTestDemo.Web.IoC
+namespace UnitTestDemo.Web.IoC
 {
     public static class Bootstrap
     {
