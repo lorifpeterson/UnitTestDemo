@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Cision.UnitTestDemo.Customer
+namespace UnitTestDemo.Customer
 {
     public interface ICustomerDao
     {
