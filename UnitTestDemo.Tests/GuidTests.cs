@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Cision.UnitTestDemo
+namespace UnitTestDemo
 {
     [TestClass]
     public class GuidTests
