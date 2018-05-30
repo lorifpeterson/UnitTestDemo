@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Cision.UnitTestDemo.Simple
+namespace UnitTestDemo.Simple
 {
     public class SimpleParser
     {
