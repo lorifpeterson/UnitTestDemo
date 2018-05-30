@@ -5,7 +5,7 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 
-namespace Cision.UnitTestDemo.Customer
+namespace UnitTestDemo.Customer
 {
     [TestClass]
     public class AccountServiceTests
