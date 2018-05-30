@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Cision.UnitTestDemo.Calculator
+namespace UnitTestDemo.Calculator
 {
     public interface IUSD_ExchangeRateFeed
     {
